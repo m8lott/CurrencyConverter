@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import Input from "./components/Input";
-import Output from "./components/Output";
+import Input from "./Components/Input";
+import Output from "./Components/Output";
 import tryConvert from "./JS/convertFunc";
 
 function App () {
